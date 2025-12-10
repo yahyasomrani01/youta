@@ -1,4 +1,4 @@
-import './style.css'
+
 import { initDrawing } from './drawing.js';
 
 initDrawing();
